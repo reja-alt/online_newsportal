@@ -1,0 +1,1 @@
+writer_application.blade.php
